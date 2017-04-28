@@ -6,7 +6,6 @@ Hobiland uygulaması, Geleceği Yazan Kadınlar eğitimi sırasında 4 günde 2 
 
 ----------
 
-
 ## Kullanımı ##
 
  - Projeyi bilgisayarınıza indirip **Android Studio** ile açın.
